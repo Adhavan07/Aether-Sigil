@@ -1,0 +1,6 @@
+{
+  "name": "Aether Sigil",
+  "description": "Gesture-controlled AR/VR arcane spellcaster arena powered by two-handed webcam tracking and Three.js.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
